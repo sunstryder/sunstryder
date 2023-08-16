@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunstryder, I'm a software engineer currently working on Search and Discovery for Pluralsight.
+- 👋 Hi, I’m @sunstryder, I'm a software engineer currently working on Portal.
 - 👀 I’m interested in mentoring other engineers and participating in more community projects.
 - 📫 If you'd like to chat, feel free to message me on twitter: https://twitter.com/solstryder
 
