@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sunstryder, I'm a software engineer currently working on Portal.
-- 👀 I’m interested in mentoring other engineers and participating in more community projects.
-- 📫 If you'd like to chat, feel free to message me on twitter: https://twitter.com/solstryder
+- 👋 Hi, I’m @sunstryder, I'm a software engineer who's worked at Zendesk and A Cloud Guru; recently I co-founded bluprint.co.nz and now I'm open for other work!
+- 👀 I’m interested in interesting remote opportunities, freelance or otherwise.
+- 📫 If you'd like to chat, feel free to email me at tony@sunstryder.dev
 
 
 <!---
